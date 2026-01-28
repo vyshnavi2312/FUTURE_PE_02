@@ -1,0 +1,99 @@
+🔹 PROMPT ENGINEERING – TASK 2
+Topic
+
+AI Resume Generator for Freshers (Using Prompt Engineering)
+
+📌 Task Objective
+
+To design a prompt chain that helps freshers create a professional, ATS-friendly resume using AI, even if they have no experience.
+
+🔹 Prompt 1 – Understanding the User
+
+Prompt:
+
+You are an AI career mentor. Ask relevant questions to understand a fresher’s
+background, skills, education, and career goals to create a resume.
+
+output:
+
+🎓 Education
+- What is your highest qualification (degree, diploma, certification)?  
+- Which institution did you study at, and what was your graduation year?  
+- Do you have any notable academic achievements (scholarships, awards, high GPA, projects)?  
+
+ 💻 Skills
+- What technical skills do you have (programming languages, tools, software, etc.)?  
+- What soft skills do you feel confident about (communication, teamwork, problem-solving)?  
+- Have you completed any online courses, certifications, or workshops?  
+
+ 🏆 Projects & Internships
+- Have you worked on any academic or personal projects worth showcasing?  
+- Did you complete any internships, part-time jobs, or volunteer work?  
+- Can you describe one project or experience where you applied your skills?  
+
+🎯 Career Goals
+- What type of role are you aiming for (IT, marketing, finance, design, etc.)?  
+- Do you prefer working in startups, MNCs, or government/public sector?  
+- Where do you see yourself in the next 2–3 years professionally?  
+
+ 📌 Extras
+- Do you want to include extracurricular activities (clubs, sports, events)?  
+- Would you like to add languages you speak or hobbies/interests?  
+
+🔹 Prompt 2 – Resume Structure Creation
+
+Prompt:
+
+Create a simple and professional resume structure suitable for freshers
+with no work experience.
+
+Output:
+
+Name | Contact | Email | LinkedIn  
+Objective: Enthusiastic graduate seeking an entry-level role to apply skills and grow professionally.
+Education | Skills | Projects | Certifications | Extracurriculars — Highlight academic background, key abilities, and relevant projects instead of work experience.
+
+🔹 Prompt 3 – Resume Content Generation
+
+Prompt:
+
+Generate resume content for a fresher using simple language.
+Assume the candidate has basic technical skills and academic projects.
+
+output:
+
+Resume Summary  
+Motivated fresher with strong interest in technology and problem-solving.
+ Skilled in basic programming, database management, and software tools.
+ Completed academic projects involving web development and data analysis.
+ Eager to learn and contribute to real-world projects in a dynamic work environment.
+
+.
+
+🔹 Prompt 4 – ATS Optimization
+
+Prompt:
+
+Optimize the resume content to be ATS-friendly by using relevant keywords
+and professional phrasing.
+
+output:
+
+Professional Summary  
+Detail-oriented and motivated Computer Science graduate with foundational knowledge in programming, database management, and software development.
+ Experienced in academic projects involving web development and data analysis, applying problem-solving and teamwork skills to deliver results. 
+Proficient in technical tools and eager to contribute to innovative projects while continuously enhancing professional expertise.
+
+🔹 Prompt 5 – Final Formatting
+
+Prompt:
+
+Format the resume in a clean, professional layout that is easy to read
+and suitable for job applications.
+
+output:
+
+Professional Summary  
+Motivated Computer Science graduate with knowledge in programming, web development, and database management.
+ Completed academic projects in web-based applications and data analysis, demonstrating problem-solving and teamwork skills.
+ Proficient in technical tools and eager to contribute to innovative projects in a professional environment.
