@@ -1,0 +1,10 @@
+This project demonstrates how prompt engineering can automate resume creation for beginners.
+By using a step-by-step prompt chain, AI can collect information, structure content, optimize it for ATS, and generate a professional resume with minimal effort.
+
+This workflow is helpful for:
+
+Freshers
+
+Students
+
+Career beginners
