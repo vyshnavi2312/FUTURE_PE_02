@@ -1,0 +1,48 @@
+
+📌 AI-Generated Resume (Fresher)
+
+Name: Your Name
+Email: yourmail@email.com
+
+Phone: XXXXXXXXXX
+LinkedIn: linkedin.com/in/yourname
+
+🎯 Career Objective
+
+Motivated fresher seeking an entry-level opportunity to apply my skills, learn continuously, and contribute to organizational growth using modern technologies.
+
+🎓 Education
+
+Bachelor of Technology (B.Tech)
+Branch – Electronics and Communication Engineering
+University Name | Year
+
+🛠 Skills
+
+Basic Programming (Python / C / C++)
+
+MS Word, PowerPoint
+
+AI Tools (ChatGPT, Canva – Basics)
+
+Communication & Problem Solving
+
+📁 Projects
+
+Mini Project on AI-based Content Generation
+
+Academic Project related to core engineering concepts
+
+📜 Certifications
+
+Prompt Engineering Internship – Future Interns
+
+Online AI fundamentals course
+
+🌟 Strengths
+
+Quick learner
+
+Self-motivated
+
+Good team player
